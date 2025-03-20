@@ -19,8 +19,7 @@ We actively collaborate with academia and industry to shape the future of AI-pow
 ---
 
 ## 🤝 **Collaborate with Us**
-We welcome **collaborations** and contributions!  
-Feel free to **fork** our repositories, open **issues**, or submit **pull requests**.
+We welcome **collaborations**!
 
 For inquiries, contact:  
 📧 **hoonlee@unist.ac.kr** (Prof. Hoon Lee)  
